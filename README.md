@@ -1,2 +1,1 @@
-# api-rifas
-API rifas online
+# Api Web Rifa
